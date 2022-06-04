@@ -22,15 +22,15 @@
     ],
     'assets': {
         'web.assets_backend': [
-            'sol_ol_map_draw/static/src/js/solmap_common.js',
-            'sol_ol_map_draw/static/src/js/main_view.js',
-            'sol_ol_map_draw/static/src/js/map_form.js',
-            'sol_ol_map_draw/static/src/scss/main_view.scss',
-            'sol_ol_map_draw/static/src/scss/map_form.scss',
+            'static/src/js/solmap_common.js',
+            'static/src/js/main_view.js',
+            'static/src/js/map_form.js',
+            'static/src/scss/main_view.scss',
+            'static/src/scss/map_form.scss',
             ],
         'web.assets_qweb': [
-            'sol_ol_map_draw/static/src/xml/solmaptemplate.xml',
-            'sol_ol_map_draw/static/src/xml/solmapform.xml',
+            'static/src/xml/solmaptemplate.xml',
+            'static/src/xml/solmapform.xml',
             ],
         },
     'images': ['static/description/thumbnails_screenshot.png','static/description/icon.png'],

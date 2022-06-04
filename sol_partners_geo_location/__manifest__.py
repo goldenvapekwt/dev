@@ -11,7 +11,7 @@
     'license': 'LGPL-3',
     'version': '15.0',
     'website': 'https://addons4.odoo.com/',
-    'depends': ['sol_ol_map_draw','contacts','base_geolocalize'],
+    'depends': ['sol_ol_map_draw','contacts'],
     'data': [
          "views/data.xml"
     ],
