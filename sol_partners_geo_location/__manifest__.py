@@ -15,7 +15,7 @@
     'data': [
          "views/data.xml"
     ],
-    'images': ['static/description/thumbnails_screenshot.png','static/description/icon.png'],
+    'images': ['sol_partners_geo_location/static/description/thumbnails_screenshot.png','sol_partners_geo_location/static/description/icon.png'],
     'installable': True,
     'auto_install': False
 }
